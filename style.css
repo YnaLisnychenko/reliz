@@ -1,0 +1,110 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+     font-family: sans-serif;
+     text-align: center;
+       background-color: rgb(96, 168, 74);
+       color:rgb(255, 123, 0);
+
+}
+p {
+    text-align: center;
+     font-family: sans-serif;
+    color: rgb(0, 0, 0);
+     background-color: rgb(221, 199, 209)
+}
+    
+  h2{
+     font-family: sans-serif;
+      text-align: center;
+        background-color: navy;
+        color: white;
+     }
+     
+     .GLAMBEE {
+       width: 1000px; 
+       height: 100px;
+     }
+     
+     .glmb{
+          display: flex;
+    width: 500px;
+    flex-wrap: wrap;
+     }
+     
+    .glmb  img:hover {
+    opacity: 1;
+    border: 6px solid rgb(185, 42, 85);
+    width: 170px;
+    height: 220px;
+    transition: 0.5s ease-out;
+    padding: 5px;
+}
+
+ .glm img {
+    opacity: 0.2;
+    width: 150px;
+    height: 200px;
+}
+
+.glm{
+          display: flex;
+    width: 500px;
+    flex-wrap: wrap;
+     }
+     
+    .glm  img:hover {
+    opacity: 1;
+    border: 6px solid rgb(179, 114, 204);
+    width: 170px;
+    height: 220px;
+    transition: 0.5s ease-out;
+    padding: 5px;
+}
+
+ .glmb img {
+    opacity: 0.2;
+    width: 150px;
+    height: 200px;
+}
+ 
+.gl img {
+    opacity: 0.2;
+    width: 150px;
+    height: 200px;
+}
+
+.gl{
+          display: flex;
+    width: 500px;
+    flex-wrap: wrap;
+     }
+     
+    .gl  img:hover {
+    opacity: 1;
+    border: 6px solid rgb(101, 199, 238);
+    width: 170px;
+    height: 220px;
+    transition: 0.5s ease-out;
+    padding: 5px;
+}
+
+ .gl img {
+    opacity: 0.2;
+    width: 150px;
+    height: 200px;
+}
+
+.hg {
+    width: 900px;
+    height: 200px;
+}
+a{
+     text-decoration: none;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(rgb(245, 159, 195), rgb(179, 44, 107));
+    padding: 10px;
+    border-radius: 10px;
+}
